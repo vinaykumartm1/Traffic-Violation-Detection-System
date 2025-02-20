@@ -16,6 +16,7 @@ This project focuses on detecting various traffic violations and distracted driv
 *   **YOLO (v5, v8):** Object detection models for accurate and real-time violation detection.
 *   **OpenCV:** Image and video processing for pre-processing and visualization.
 *   **Python:** Core programming language for model implementation and processing.
+*   **OCR technique:** To extract licence plate number
 
 ## How It Works
 
