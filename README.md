@@ -32,7 +32,7 @@ This project focuses on detecting various traffic violations and distracted driv
 *   Python 3.x
 *   OpenCV
 *   PyTorch
-*   YOLOv5 or YOLOv8 repository
+*   YOLOv5 and YOLOv8 repository
 
 ### Steps to Run
 
