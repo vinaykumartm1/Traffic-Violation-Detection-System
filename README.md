@@ -23,7 +23,7 @@ This project focuses on detecting various traffic violations and distracted driv
 1.  **Video Processing:** The model processes video footage from traffic cameras or dashcams.
 2.  **Object Detection:** YOLO detects vehicles, motorcyclists, and drivers.
 3.  **Violation Classification:** The system analyzes detected objects to identify specific violations.
-4.  **Alert System:** Highlights violations for further action (e.g., reporting, logging, or alerting authorities).
+
 
 ## Installation & Usage
 
