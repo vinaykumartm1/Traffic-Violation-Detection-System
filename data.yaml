@@ -1,0 +1,12 @@
+names:
+- Humans
+nc: 1
+roboflow:
+  license: CC BY 4.0
+  project: human_detection-xit3n
+  url: https://universe.roboflow.com/pranav-m-pillai-pqckq/human_detection-xit3n/dataset/3
+  version: 3
+  workspace: pranav-m-pillai-pqckq
+test: ../test/images
+train: Human_Detection-3/train/images
+val: Human_Detection-3/valid/images
