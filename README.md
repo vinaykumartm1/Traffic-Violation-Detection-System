@@ -39,8 +39,8 @@ This project focuses on detecting various traffic violations and distracted driv
 1.  **Clone the repository:**
 
     ```bash
-    git clone [[[https://github.com/yathish08/yathish08-Intelligent-Traffic-Violation-Detection-System.git](https://github.com/yathish08/yathish08-Intelligent-Traffic-Violation-Detection-System.git)](https://github.com/vinaykumartm1/Traffic-Violation-Detection-System.git)](https://github.com/vinaykumartm1/Intelligent-Traffic-Violation-Detection-System.git)
-    cd traffic_violation_detection
+    git clone [https://github.com/vinaykumartm1/Intelligent-Traffic-Violation-Detection-System.git]
+    cd Intelligent-Traffic-Violation-Detection-System
     ```
 
 2.  **Install dependencies:**
