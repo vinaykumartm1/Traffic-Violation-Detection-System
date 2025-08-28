@@ -40,16 +40,20 @@ This project focuses on detecting various traffic violations and distracted driv
 
     ```bash
     git clone [https://github.com/vinaykumartm1/Intelligent-Traffic-Violation-Detection-System.git]
+    ```
+2.  Navigate to the project directory:
+
+    ```bash
     cd Intelligent-Traffic-Violation-Detection-System
     ```
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
 
     ```bash
     pip install -r requirements.txt
     ```
 
-3.  **Run the detection script:**
+4.  **Run the detection script:**
 
     ```bash
     python main.py --sample_test_cases/test.mp4 --model yolov8.pt
